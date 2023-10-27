@@ -1,0 +1,3 @@
+LIBRARY crack.dll
+	EXPORTS
+		patch @1
