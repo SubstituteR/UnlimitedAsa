@@ -1,6 +1,8 @@
 # UnlimitedAsa
 Run as many ASA Dedicated Servers as you want on your computer.
 
+**Note: This does not remove the Steam account requirement. This allows you to run more than one server on the same machine.**
+
 # How to Use?
 Build and inject the library `crack.dll` into the ASA Dedicated Server at start up.
 
