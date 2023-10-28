@@ -1,3 +1,6 @@
+# News
+**As of v25.18 this is no longer required.**
+
 # UnlimitedAsa
 Run as many ASA Dedicated Servers as you want on your computer.
 
